@@ -15,4 +15,4 @@ public class Question7 {
 
         scanner.close();
     }
-}
+}              
